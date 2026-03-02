@@ -1,56 +1,94 @@
 ---
+title: "计算方法 Computing Method（2026，春季学期）"
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+author_profile: false
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+![Computational Methods 2026 Banner]({{ '/images/courses/cm2026-banner.svg' | relative_url }})
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## 课程公告
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- 2026/03/02：课程主页上线。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## 课程信息
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- 教师：[姚遥](https://yoyo000.github.io/) 副教授
+- 时间地点：周四 3-4 节（1-16 周），苏教 B209
+- 课程网站：[计算方法 2026](https://nju-3dv.github.io/cm2026.github.io/)
+- 课程教材：《数值分析》第 5 版（李庆扬、王能超、易大义，华中科技大学出版社）
+- 课程资料：[课程总资料（NJU Box）](https://box.nju.edu.cn/)
+- Office hour：周四下午 1:00 pm - 2:00 pm，南雍楼东 509
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+> - 成绩说明：
+>   - 平时作业 15%
+>   - 编程作业 35%（共 2 次，15% + 20%）
+>   - 期末考试 50%（半开卷考试，5% A4 小抄 + 45% 卷面）
+>   - 出勤考核（随机抽查，每次缺勤 -1%）
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- 助教：
+  - 刘康杰（[liukangjie@smail.nju.edu.cn](mailto:liukangjie@smail.nju.edu.cn)）
+  - 戴子坤（[zikun.dai@smail.nju.edu.cn](mailto:zikun.dai@smail.nju.edu.cn)）
+  - 胡展鹏（[502025710007@smail.nju.edu.cn](mailto:502025710007@smail.nju.edu.cn)）
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<!-- 
+## 常用链接
 
-**Markdown generator**
+| 类型 | 链接 |
+|---|---|
+| 课程总资料 | [NJU Box](https://box.nju.edu.cn/) |
+| 作业提交入口 | [待补充](https://box.nju.edu.cn/) |
+| 课程 PPT 汇总 | [待补充](https://box.nju.edu.cn/) |
+| 平时成绩查询 | [待补充](https://table.nju.edu.cn/) | 
+-->
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+## 教学日历
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+| 课程日期 | 章节内容 | 作业说明 | 作业提交 | NOTE |
+|---|---|---|---|---|
+| 05/03/2026 Thur. | 课程介绍 & 第一章绪论 |  |  |  |
+| 12/03/2026 Thur. | 第一章绪论；第二章插值法 1 |  |  |  |
+| 19/03/2026 Thur. | 第六章 方程求根 1 |  |  |  |
+| 26/03/2026 Thur. | 第六章 方程求根 2 |  |  |  |
+| 02/04/2026 Thur. | 第七章 解线性方程组的直接方法 1 |  |  |  |
+| 09/04/2026 Thur. | 第七章 解线性方程组的直接方法 2 |  |  |  |
+| 16/04/2026 Thur. | 第八章 解线性方程组的迭代法 1 |  |  |  |
+| 23/04/2026 Thur. | 第八章 解线性方程组的迭代法 2 |  |  |  |
+| 30/04/2026 Thur. | 第九章 矩阵的特征值和特征向量计算 1 |  |  |  |
+| 07/05/2026 Thur. | 第九章 矩阵的特征值和特征向量计算 2 |  |  |  |
+| 14/05/2026 Thur. | 第十章 数值积分与数值微分 1 |  |  |  |
+| 21/05/2026 Thur. | 第十章 数值积分与数值微分 2 |  |  |  |
+| 28/05/2026 Thur. | 第十一章 常微分方程数值解法 1 |  |  |  |
+| 04/06/2026 Thur. | 第十一章 常微分方程数值解法 2 |  |  |  |
+| 11/06/2026 Thur. | 复习与专题答疑 |  |  |  |
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+## 作业信息
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+> 作业注意事项：
+> - 作业每章布置一次，一周内提交，提交 PDF 文件到 box 链接中（具体日期见课程日历）。
+> - 文件名须为 `姓名_学号_作业序号_版本号.pdf`，例如 `1112200001_hw1_v1.pdf`。
+> - 助教批改作业将以作业交期和前版本号最高的文件为准。
+> - Late policy：迟交 24h 以内，折扣系数 0.8；迟交 24h-48h，折扣系数 0.5；迟交 48h 以上，折扣系数 0。
+
+
+<!-- 
+## FAQ
+
+<details>
+  <summary>作业可以组队提交吗？</summary>
+  本课程默认作业为个人独立完成。若某次编程作业允许组队，会在该次作业说明中单独写明。
+</details>
+
+<details>
+  <summary>如何申请缓交？</summary>
+  如有特殊情况，请在截止前邮件联系助教，并抄送任课教师，说明原因和预计补交时间。
+</details> 
+-->
+
+## Acknowledgement
+
+特别感谢**黄卫华**教授及**张利军**教授对本门课程建设的大力支持！
+
+## 学术诚信
+
+- 禁止直接复制他人代码/文字（包括网络资源），当作业高度相似时视为抄袭。
+- 本课程意在训练学生数值分析及相关算法的实践能力，故除特殊说明，作业/项目中禁止使用语言模型进行辅助实现。
