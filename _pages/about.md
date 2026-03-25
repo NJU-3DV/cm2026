@@ -48,7 +48,7 @@ author_profile: false
 | 第1周 | 05/03/2026 Thur. | [课程介绍 & 第 1 章：绪论](https://box.nju.edu.cn/f/b3e1523ec72f44219f09/) |  |  |  |
 | 第2周 | 12/03/2026 Thur. | [第 2 章：插值法（1）](https://box.nju.edu.cn/f/d5dcbe9ab8984ff7a014/) | 第一章3、12、14，第二章3、<span style="color:red;">10</span>、23、24 （<span style="color:red;">更新: 新增第二章第10题</span>） | DDL: 25/03/2026 <br>提交链接: [hw1_link](https://box.nju.edu.cn/u/d/46601e9353314b5890fe/) |  |
 | 第3周 | 19/03/2026 Thur. | [第 2 章：插值法（2）](https://box.nju.edu.cn/f/883dba362a8846c49a15/) |  |  |  |
-| 第4周 | 26/03/2026 Thur. | [第 3 章：函数逼近与计算（1）](https://box.nju.edu.cn/f/58c0cd7c53c242168369/) |  |  |  |
+| 第4周 | 26/03/2026 Thur. | [第 3 章：函数逼近与计算（1）](https://box.nju.edu.cn/f/fbe966b5241d474d8547/) |  |  |  |
 | 第5周 | 02/04/2026 Thur. | 第 3 章：函数逼近与计算（2） |  |  |  |
 | 第6周 | 09/04/2026 Thur. | 第 4 章：数值积分与数值微分（2） |  |  |  |
 | 第7周 | 16/04/2026 Thur. | 第 4 章：数值积分与数值微分（2） |  |  |  |
