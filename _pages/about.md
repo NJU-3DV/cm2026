@@ -54,7 +54,7 @@ author_profile: false
 | 第6周 | 09/04/2026 Thur. | [第 4 章：数值积分与数值微分（1）](https://box.nju.edu.cn/f/bc0ce67c5da84507b672/) |  |  |  |
 | 第7周 | 16/04/2026 Thur. | [第 4 章：数值积分与数值微分（2）](https://box.nju.edu.cn/f/e274cb5a2d1a4e0cb0df/) | 第四章1、4、9、11 | DDL: 22/04/2026 提交链接：[hw3_link](https://box.nju.edu.cn/u/d/4123987f9ccf48fc9b02/) |  |
 | 第8周 | 23/04/2026 Thur. | [第 6 章：方程求根（1）](https://box.nju.edu.cn/f/6854c1c806484a85951d/) |  |  |  |
-| 第9周 | 30/04/2026 Thur. | 第 6 章：方程求根（2） | [CM2026_PR1](https://github.com/briocheKJ/cm2026_pr1.git) | DDL: 13/05/2026 提交链接：[pr1_link](https://box.nju.edu.cn/u/d/644ecda9c3474101a335/) |  |
+| 第9周 | 30/04/2026 Thur. | [第 6 章：方程求根（2）](https://box.nju.edu.cn/f/42e6186f0b0e4199851b/) | 第六章1、7、12、14; [CM2026_PR1](https://github.com/briocheKJ/cm2026_pr1.git) | homework4: DDL 06/05/2026  提交链接: [hw4_link](https://box.nju.edu.cn/u/d/d751ad70ff084311a7f7/); project1: DDL: 13/05/2026 提交链接：[pr1_link](https://box.nju.edu.cn/u/d/644ecda9c3474101a335/) |  |
 | 第10周 | 07/05/2026 Thur. | 第 7 章：解线性方程组的直接方法（1） |  |  |  |
 | 第11周 | 14/05/2026 Thur. | 第 7 章：解线性方程组的直接方法（2） |  |  |  |
 | 第12周 | 21/05/2026 Thur. | 第 8 章：解线性方程组的迭代方法（1） |  |  |  |
