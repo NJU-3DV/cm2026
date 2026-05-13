@@ -56,7 +56,7 @@ author_profile: false
 | 第8周 | 23/04/2026 Thur. | [第 6 章：方程求根（1）](https://box.nju.edu.cn/f/6854c1c806484a85951d/) |  |  |  |
 | 第9周 | 30/04/2026 Thur. | [第 6 章：方程求根（2）](https://box.nju.edu.cn/f/42e6186f0b0e4199851b/) | 第六章1、7、12、14; [CM2026_PR1](https://github.com/briocheKJ/cm2026_pr1.git) | homework4: DDL 06/05/2026  提交链接: [hw4_link](https://box.nju.edu.cn/u/d/d751ad70ff084311a7f7/); project1: DDL: 13/05/2026 提交链接：[pr1_link](https://box.nju.edu.cn/u/d/644ecda9c3474101a335/) |  |
 | 第10周 | 07/05/2026 Thur. | [第 7 章：解线性方程组的直接方法（1）](https://box.nju.edu.cn/f/9187f76dbe674910b9e5/) |  |  |  |
-| 第11周 | 14/05/2026 Thur. | 第 7 章：解线性方程组的直接方法（2） |  |  |  |
+| 第11周 | 14/05/2026 Thur. | [第 7 章：解线性方程组的直接方法（2）](https://box.nju.edu.cn/f/68157c0a86aa4f4a809b/)| 第七章1，8，14，18 | DDL: 20/05/2026 提交链接：[hw5_link](https://box.nju.edu.cn/u/d/e38d49dfd02f4e6a9fe5/) |  |
 | 第12周 | 21/05/2026 Thur. | 第 8 章：解线性方程组的迭代方法（1） |  |  |  |
 | 第13周 | 28/05/2026 Thur. | 第 8 章：解线性方程组的迭代方法（2） |  |  |  |
 | 第14周 | 04/06/2026 Thur. | 第 9 章：矩阵的特征值与特征向量计算（1） |  |  |  |
