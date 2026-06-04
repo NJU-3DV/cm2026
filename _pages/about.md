@@ -59,7 +59,7 @@ author_profile: false
 | 第11周 | 14/05/2026 Thur. | [第 7 章：解线性方程组的直接方法（2）](https://box.nju.edu.cn/f/68157c0a86aa4f4a809b/)| 第七章1，8，14，18 | DDL: 20/05/2026 提交链接：[hw5_link](https://box.nju.edu.cn/u/d/e38d49dfd02f4e6a9fe5/) |  |
 | 第12周 | 21/05/2026 Thur. | [第 8 章：解线性方程组的迭代方法（1）](https://box.nju.edu.cn/f/015e56d046ff4d79ac58/) |  |  |  |
 | 第13周 | 28/05/2026 Thur. | [第 8 章：解线性方程组的迭代方法（2）](https://box.nju.edu.cn/f/c3931d0de960457ab61a/) | 第八章第5、10、15、19 | DDL: 03/06/2026 提交链接：[hw6_link](https://box.nju.edu.cn/u/d/e589c4d0dcc54f858582/) |  |
-| 第14周 | 04/06/2026 Thur. | 第 9 章：矩阵的特征值与特征向量计算（1） |  |  |  |
+| 第14周 | 04/06/2026 Thur. | [第 9 章：矩阵的特征值与特征向量计算（1）](https://box.nju.edu.cn/f/84419bd064984d3599af/) |第九章1、5、6、9题 | DDL: 10/06/2026 提交链接：[hw7_link](https://box.nju.edu.cn/u/d/30eca9e19c984456bc9d/) |  |
 | 第15周 | 11/06/2026 Thur. | 第 9 章：矩阵的特征值与特征向量计算（2） |  |  |  |
 | 第16周 | 18/06/2026 Thur. | 总结 & 展望 |  |  |  |
 
