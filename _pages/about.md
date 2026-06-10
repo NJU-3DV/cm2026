@@ -61,7 +61,7 @@ author_profile: false
 | 第12周 | 21/05/2026 Thur. | [第 8 章：解线性方程组的迭代方法（1）](https://box.nju.edu.cn/f/015e56d046ff4d79ac58/) |  |  |  |
 | 第13周 | 28/05/2026 Thur. | [第 8 章：解线性方程组的迭代方法（2）](https://box.nju.edu.cn/f/c3931d0de960457ab61a/) | 第八章第5、10、15、19 | DDL: 03/06/2026 提交链接：[hw6_link](https://box.nju.edu.cn/u/d/e589c4d0dcc54f858582/) |  |
 | 第14周 | 04/06/2026 Thur. | [第 9 章：矩阵的特征值与特征向量计算（1）](https://box.nju.edu.cn/f/84419bd064984d3599af/) |第九章1、5、6、9题; [CM2026_PR2](https://github.com/shuangw98/cm2026_pr2) |homework7: DDL 17/06/2026 提交链接：[hw7_link](https://box.nju.edu.cn/u/d/30eca9e19c984456bc9d/) project2: DDL: 20/06/2026 提交链接：[pr2_link](https://box.nju.edu.cn/u/d/556e01344ace4b988fa2/) |  |
-| 第15周 | 11/06/2026 Thur. | 第 9 章：矩阵的特征值与特征向量计算（2） |  |  |  |
+| 第15周 | 11/06/2026 Thur. | [第 9 章：矩阵的特征值与特征向量计算（2）](https://box.nju.edu.cn/f/6f1c8c2ea4964c9c9c8c/) |  |  |  |
 | 第16周 | 18/06/2026 Thur. | 总结 & 展望 |  |  |  |
 
 ## 作业信息
